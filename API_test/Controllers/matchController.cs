@@ -4,7 +4,7 @@ using System.Net.Http;
 using System.Threading.Tasks;
 
 [ApiController]
-[Route("match")]
+[Route("matches")]
 
 public class StatsController : ControllerBase
 {
